@@ -1,4 +1,6 @@
-## Olá, eu sou o Leonardo Valentin
+## Hi, I am Leonardo Valentin
+
+## @leonardo-valentin
 
 - 👋 Currently working in a metallurgical plant that manufactures tractor parts, and I am looking forward to a career change opportunity.
 - 💡 Main language: ```JavaScript```
