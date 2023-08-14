@@ -1,7 +1,9 @@
 ## Olá, eu sou o Leonardo Valentin
 
-- 🔭 Estou atualmente trabalhando em uma fábrica que fabrica componentes de tratores, e estou em busca de uma transição de carreira
-- 🌱 Estudando HTML, CSS e JS (em breve frameworks como ReactJS e tailwind.css)
+- 👋 Currently working in a metallurgical plant that manufactures tractor parts, and I am looking forward to a career change opportunity.
+- 💡 Main language: ```JavaScript```
+- 💻 Design related knowledges: ```HTML, CSS and Figma```
+- 📚 Currently studying: frameworks/libraries ReactJS, NodeJs and Tailwind.css
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
