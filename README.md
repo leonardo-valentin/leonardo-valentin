@@ -4,7 +4,7 @@
 
 - 👋 Currently working in a metallurgical production that manufactures tractor parts, and I am looking forward to a career change opportunity.
 - 💡 Main language: ```JavaScript```
-- 💻 Design related knowledges: ```HTML, CSS and Figma```
+- 💻 Structure and Design related knowledges: ```HTML, CSS and Figma```
 - 📚 Currently studying: frameworks/libraries ReactJS, NodeJs and Tailwind.css
 
 <div style="display: inline_block"><br>
