@@ -2,7 +2,7 @@
 
 ## @leonardo-valentin
 
-- 👋 Currently working in a metallurgical plant that manufactures tractor parts, and I am looking forward to a career change opportunity.
+- 👋 Currently working in a metallurgical production that manufactures tractor parts, and I am looking forward to a career change opportunity.
 - 💡 Main language: ```JavaScript```
 - 💻 Design related knowledges: ```HTML, CSS and Figma```
 - 📚 Currently studying: frameworks/libraries ReactJS, NodeJs and Tailwind.css
