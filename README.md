@@ -5,7 +5,7 @@
 - 👋 Currently working in a metallurgical production that manufactures tractor parts, and I am looking forward to a career change opportunity.
 - 💡 Main language: ```JavaScript / Typescript```
 - 💻 Structure and Design related knowledges: ```HTML, CSS and Figma```
-- 📚 Currently studying: frameworks/libraries ReactJS, NodeJs and Tailwind.css
+- 📚 Currently studying: frameworks/libraries Angular, NodeJs and Tailwind.css
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
